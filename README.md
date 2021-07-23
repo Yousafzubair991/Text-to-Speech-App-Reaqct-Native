@@ -1,1 +1,1 @@
-# Text-to-Speech-App-Reaqct-Native
+#Text To Speech App React Native
